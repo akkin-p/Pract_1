@@ -1,7 +1,7 @@
 This is my app
 
-Initial testing
+Testing on some commands
 
-> Adding
+> completed
 
 > Thank you

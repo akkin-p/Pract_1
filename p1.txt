@@ -4,4 +4,4 @@ Testing on some commands
 
 > completed
 
-> Thank you
+> Thank you!
